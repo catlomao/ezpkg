@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\code\\ezpkg\\ezpkgC#\\ezpkgC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E73684E5-2A3F-4891-BB52-A261DF406735}|ezpkgC#.csproj|c:\\users\\hp\\desktop\\code\\ezpkg\\ezpkgc#\\ezpkgc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73684E5-2A3F-4891-BB52-A261DF406735}|ezpkgC#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\code\\ezpkg\\linux.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\code\\ezpkg\\ezpkgC#\\ezpkgC#\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\code\\ezpkg\\ezpkgC#\\ezpkgC#\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAIwG8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:21:16.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "linux.py",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\code\\ezpkg\\linux.py",
+              "RelativeDocumentMoniker": "..\\..\\linux.py",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\code\\ezpkg\\linux.py",
+              "RelativeToolTip": "..\\..\\linux.py",
+              "ViewState": "AgIAAKYAAAAAAAAAAAD4v5QAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-01-05T08:21:55.761Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
